@@ -1,1 +1,1 @@
-python C:\Users\Explore\Desktop\myAppTest\loggingtest.py
+python C:\Users\Explore\Desktop\myAppTest\logging_file.py

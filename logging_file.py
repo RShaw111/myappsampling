@@ -5,8 +5,8 @@ logging.basicConfig(filename='C:/Users/Explore/Desktop/Logtest/Logging.log',leve
 
 try:
     x = 3/1
-    logging.info("Update successful at {}".format(strftime("%Y-%m-%d %H:%M:%S", gmtime())))
+    logging.info("     {} Update successful".format(strftime("%Y-%m-%d %H:%M:%S", gmtime())))
 except Exception as e:
-    logging.warning("Error occured {}".format(e))
+    logging.warning("   {} Error occured {}".format(strftime("%Y-%m-%d %H:%M:%S", gmtime()), e))
     
 print('Done')

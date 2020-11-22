@@ -1,5 +1,1 @@
 error logs yay
-
-More lines in log file
-
-More lines

@@ -1,0 +1,1 @@
+"C:/Users/Explore/AppData/Local/Microsoft/WindowsApps/python.exe" "c:/Users/Explore/Desktop/myAppTest/logging_file.py"
